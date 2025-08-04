@@ -9,6 +9,8 @@ As a data analyst, my role is to transform this raw data into actionable insight
 
 # Data Structure:
 
+<img width="1099" height="475" alt="ERD GoloTech" src="https://github.com/user-attachments/assets/de66cc53-bab3-48ed-96c0-40b073aa901d" />
+
 
 # Executive Summary:
 
