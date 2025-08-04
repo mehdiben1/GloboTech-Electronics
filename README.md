@@ -5,7 +5,7 @@
 
 Over the years, GloboTech has accumulated a substantial volume of operational and transactional data, covering everything from sales transactions and product catalogs to customer demographics, store locations, and currency exchange rates. However, this data remains largely unstructured and under-leveraged across departments.
 
-As a data analyst, my role is to transform this raw data into actionable insights that can support data-driven decision-making for key stakeholders—particularly the executive leadership and strategy teams.
+As a data analyst, my role is to transform this raw data into actionable insights that can support data-driven decision-making for key stakeholders, particularly the executive leadership and strategy teams.
 
 # Data Structure:
 
