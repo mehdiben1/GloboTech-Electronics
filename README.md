@@ -20,7 +20,9 @@ As a data analyst, my role is to transform this raw data into actionable insight
   
 These results suggest the company is well-positioned to maintain growth by optimizing store performance, leveraging repeat customers, and sustaining its high profitability.
 
-<img width="920" height="516" alt="1" src="https://github.com/user-attachments/assets/c2c5b677-a8bb-474d-925e-10a1beb81562" />
+<img width="1011" height="567" alt="image" src="https://github.com/user-attachments/assets/5b34a623-2ba9-4be9-a250-63a57432f6bc" />
+
+
 
 # Insights Deep Dive:
 ## I. Customer Insights:
