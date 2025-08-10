@@ -1,4 +1,4 @@
-# GloboTech-Electronics
+# GloboTech-Electronics : 2016 - 2022
 
 # Project Background:
 **GloboTech Electronics** is a global electronics retailer **operating since 2016**, with a diversified sales strategy that includes both e-commerce and brick-and-mortar stores across multiple regions. The company offers a wide range of consumer electronics from top brands, catering to customers in North America, Europe, Asia, and beyond.
