@@ -16,7 +16,8 @@ As a data analyst, my role is to transform this raw data into actionable insight
 ## Overview of Findings:
 - From 2016 to 2021, GloboTech has generated a **total revenue of $56M**, selling about **198K units**, acheiving **$33M as net profits (60% of total revenue)** indicating strong operational efficiency.
 - **Large-format stores** are the leading revenue drivers **($25.5M which represent 45.5% of the total revenue generated)**, while the business benefits from a high **repeat purchase rate of 61%**, reflecting strong customer loyalty.
-- 
+- For the Geographic Performance, the **USA** was the leader among all countries with a **total revenue of $24M** followed by the United Kingdom and Germany in third place **($6M & $4,2M)**.  Also the company's profitability is heavily concentrated in key North American regions, with Nevada, Kansas, Nebraska, New Mexico **($3.2M with represent 9% of  the profit generated)**.
+  
 These results suggest the company is well-positioned to maintain growth by optimizing store performance, leveraging repeat customers, and sustaining its high profitability.
 
 <img width="920" height="516" alt="1" src="https://github.com/user-attachments/assets/c2c5b677-a8bb-474d-925e-10a1beb81562" />
