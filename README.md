@@ -44,5 +44,14 @@ These results suggest the company is well-positioned to maintain growth by optim
 - **Matthew Flemming** is the single largest customer, contributing **$61.8K** in revenue and **$39.6K** in profit, highlighting strong profitability in high-value clients.
 - Purchase frequency distribution shows that the majority of customers (**77.5%**) purchase **1–3 items** per order, with a steep drop-off beyond that, suggesting opportunities to increase basket size via cross-selling or promotions.
   
-## II. Product & Brand Profitability
+## II. Product & Brand Profitability: 
+- The top three brands, Adventure Works, Wild World Importers, and Contoso—generate over half of GloboTech’s total profit (**56.3M**). This emphasizes the importance of prioritizing investment in these high-performing brands while reevaluating the role of lower-performing ones.
+- Among the product lineup, the **WWI Desktop PC 2.33 X23** stands out as the top contributor, with a profit of **$0.34M**. It appears multiple times with slight variations, indicating strong recurring sales. Adventure Works desktops dominate the top ten products, showcasing consistent profitability across similar SKUs and reinforcing the brand’s position as a key profit driver.
+- Computers generate **$11.3 million** in profit, nearly double that of the next highest category. This confirms that computers are the core revenue generator. Home appliances and cameras follow, but with a significant drop-off, suggesting they should be considered as secondary focus areas.
+  
 # Recommendations:
+
+- **Prioritize High-Performing Brands and Products:** Focus resources on Adventure Works, WWI, and Contoso, as these three brands together generate more than half of our total profit. Expand successful product lines, such as the WWI Desktop PC2.33 X23 and Adventure Works desktops, by leveraging their proven demand to strengthen our market share in the Computers category. Additionally, coordinate efforts in marketing, supply chain, and research and development to support these core profit drivers.
+- **Rationalize the Product Portfolio:** Conduct a comprehensive profitability analysis to identify low-performing SKUs and brands that weaken margins. Discontinue or reposition underperforming items and reallocate budgets to high-margin products with growth potential. This approach will enhance operational efficiency and free up resources for strategic investments.
+- **Enhance Geographic and Customer Segmentation Strategy:** Implement successful strategies from high-profit states like Nevada and Kansas in other regions with untapped potential. Create focused campaigns targeting high-value customer segments, such as Young Adults and Seniors. Additionally, develop tailored retention programs for top spenders to increase repeat purchases and enhance customer lifetime value.
+- **Drive Higher Basket Size and Cross-Selling:** Use personalized marketing, targeted promotions, and loyalty incentives to encourage multi-item purchases. Train sales staff and optimize online recommendation engines to upsell complementary high-margin products, increasing revenue per customer transaction.
