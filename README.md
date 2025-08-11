@@ -8,15 +8,24 @@ Over the years, GloboTech has accumulated a substantial volume of operational an
 As a data analyst, my role is to transform this raw data into actionable insights that can support data-driven decision-making for key stakeholders, particularly the executive leadership and strategy teams.
 
 # Data Structure:
+The companies main database structure as seen below consists of **5 tables**: **Sales**, **Customers**, **Products**, **Category** and **Stores** with a total row count of **63 000 records**. A description of each table is as follows:
+
+- **Sales:** Captures transaction-level data for every order placed, including order identifiers, product references, customer identifiers, store location, quantity sold, and currency codes.
+- **Products:** Contains detailed product-level attributes such as brand, product name, color, cost (USD), and price (USD).
+- **Category:** Defines the product hierarchy, mapping each product to a category and subcategory.
+- **Stores:** Holds store-level data, including location (country, state), physical size (square meters), and opening date.
+- **Customers:** Stores customer-level demographic and geographic details, such as name, gender, date of birth, city, state, country, and continent.
+
+  Each row in the Sales table links a customer to a specific product sold in a given store, with the product’s category information derived from the Category table. The relationships between these tables are defined by keys **ProductKey**, **CustomerKey**, **StoreKey**, and **CategoryKey**, as illustrated in the Entity Relationship Diagram (ERD) above.
 
 <img width="1099" height="475" alt="ERD GoloTech" src="https://github.com/user-attachments/assets/de66cc53-bab3-48ed-96c0-40b073aa901d" />
 
 
 # Executive Summary
 ## Overview of Findings:
-- From 2016 to 2021, GloboTech has generated a **total revenue of $56M**, selling about **198K units**, acheiving **$33M as net profits (60% of total revenue)** indicating strong operational efficiency.
-- **Large-format stores** are the leading revenue drivers **($25.5M which represent 45.5% of the total revenue generated)**, while the business benefits from a high **repeat purchase rate of 61%**, reflecting strong customer loyalty.
-- For the Geographic Performance, the **USA** was the leader among all countries with a **total revenue of $24M** followed by the United Kingdom and Germany in third place **($6M & $4,2M)**.  Also the company's profitability is heavily concentrated in key North American regions, with Nevada, Kansas, Nebraska, New Mexico **($3.2M with represent 9% of  the profit generated)**.
+- **From 2016 to 2022**, GloboTech generated total revenue of **$56.0M**, selling approximately **198K units** and achieving **$33.0M** in profit (**58.9% of revenue**), which indicates strong operational efficiency.
+- Large-format stores are the leading revenue drivers, contributing **$25.5M** (**45.5% of total revenue**). The business also benefits from a high repeat purchase rate of **61%**, reflecting strong customer loyalty.
+- In geographic performance, the United States led with total revenue of **$24.0M**, followed by the United Kingdom (**$6.0M**) and Germany (**$4.2M**). Profitability is concentrated in key North American regions: Nevada, Kansas, Nebraska and New Mexico together account for approximately **$3.24M**, or **9.8% of total profit**.
   
 These results suggest the company is well-positioned to maintain growth by optimizing store performance, leveraging repeat customers, and sustaining its high profitability.
 
