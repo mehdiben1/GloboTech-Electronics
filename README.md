@@ -8,9 +8,9 @@ Over the years, GloboTech has accumulated a substantial volume of operational an
 As a data analyst, my role is to transform this raw data into actionable insights that can support data-driven decision-making for key stakeholders, particularly the executive leadership and strategy teams.
 
 # Data Structure:
-The companies main database structure as seen below consists of **5 tables**: **Sales**, **Customers**, **Products**, **Category** and **Stores** with a total row count of **63 000 records**. A description of each table is as follows:
+The companies main database structure as seen below consists of 5 tables: **Sales**, **Customers**, **Products**, **Category** and **Stores** with a total row count of **63 000 records**. A description of each table is as follows:
 
-- **Sales:** Captures transaction-level data for every order placed, including order identifiers, product references, customer identifiers, store location, quantity sold, and currency codes.
+- **Sales:** Captures transaction-level data for every order placed, including order identifiers, product references, customer identifiers, store location, quantity sold and currency codes.
 - **Products:** Contains detailed product-level attributes such as brand, product name, color, cost (USD), and price (USD).
 - **Category:** Defines the product hierarchy, mapping each product to a category and subcategory.
 - **Stores:** Holds store-level data, including location (country, state), physical size (square meters), and opening date.
