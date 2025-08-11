@@ -1,4 +1,18 @@
-# GloboTech-Electronics : 2016 - 2022
+# GloboTech-Electronics Sales Performance Analysis: 2016 - 2022
+
+<details open>
+  <summary>Table of Contents:</summary>
+  
+- [Project Background](#project-background)
+- [Data Structure](#data-structure)
+- [Executive Summary](#executive-summary)
+- [Insights Deep Dive](#insights-deep-dive)
+    - [Customer Insights](#Customer-Insights)
+    - [Product & Brand Profitability](#Product-&-Brand-Profitability)
+    
+- [Recommendations](#Recommendations)
+
+</details>
 
 # Project Background:
 **GloboTech Electronics** is a global electronics retailer **operating since 2016**, with a diversified sales strategy that includes both e-commerce and brick-and-mortar stores across multiple regions. The company offers a wide range of consumer electronics from top brands, catering to customers in North America, Europe, Asia, and beyond.
@@ -34,17 +48,17 @@ These results suggest the company is well-positioned to maintain growth by optim
 
 
 # Insights Deep Dive:
-## I. Customer Insights:
-### 1. Customer age segments:
+## 1. Customer Insights:
+### a. Customer age segments:
 - Young Adults and Seniors are the top revenue-generating segments, together contributing over **$27.6M**, roughly **44%** of total company revenue.
 - Average Order Value (AOV) is relatively consistent across age groups, ranging between **$2,068** and **$2,172**, indicating similar spending patterns per transaction regardless of age.
   
-### 2. Customer purchase behavior:
+### b. Customer purchase behavior:
 - The Top 10 customers generated **$425K** in revenue, representing approximately **1.4%** of total revenue, suggesting a relatively broad revenue base rather than over-reliance on a few clients.
 - **Matthew Flemming** is the single largest customer, contributing **$61.8K** in revenue and **$39.6K** in profit, highlighting strong profitability in high-value clients.
 - Purchase frequency distribution shows that the majority of customers (**77.5%**) purchase **1–3 items** per order, with a steep drop-off beyond that, suggesting opportunities to increase basket size via cross-selling or promotions.
   
-## II. Product & Brand Profitability: 
+## 2. Product & Brand Profitability: 
 - The top three brands, Adventure Works, Wild World Importers, and Contoso—generate over half of GloboTech’s total profit (**56.3M**). This emphasizes the importance of prioritizing investment in these high-performing brands while reevaluating the role of lower-performing ones.
 - Among the product lineup, the **WWI Desktop PC 2.33 X23** stands out as the top contributor, with a profit of **$0.34M**. It appears multiple times with slight variations, indicating strong recurring sales. Adventure Works desktops dominate the top ten products, showcasing consistent profitability across similar SKUs and reinforcing the brand’s position as a key profit driver.
 - Computers generate **$11.3 million** in profit, nearly double that of the next highest category. This confirms that computers are the core revenue generator. Home appliances and cameras follow, but with a significant drop-off, suggesting they should be considered as secondary focus areas.
