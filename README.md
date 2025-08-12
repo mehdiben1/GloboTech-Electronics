@@ -78,3 +78,11 @@ These results suggest the company is well-positioned to maintain growth by optim
 - **Rationalize the Product Portfolio:** Conduct a comprehensive profitability analysis to identify low-performing SKUs and brands that weaken margins. Discontinue or reposition underperforming items and reallocate budgets to high-margin products with growth potential. This approach will enhance operational efficiency and free up resources for strategic investments.
 - **Enhance Geographic and Customer Segmentation Strategy:** Implement successful strategies from high-profit states like Nevada and Kansas in other regions with untapped potential. Create focused campaigns targeting high-value customer segments, such as Young Adults and Seniors. Additionally, develop tailored retention programs for top spenders to increase repeat purchases and enhance customer lifetime value.
 - **Drive Higher Basket Size and Cross-Selling:** Use personalized marketing, targeted promotions, and loyalty incentives to encourage multi-item purchases. Train sales staff and optimize online recommendation engines to upsell complementary high-margin products, increasing revenue per customer transaction.
+
+
+# Appendix:
+
+- For more details about the dataset and the data cleaning process check out [the Dataset Summary & Issue Log ](https://github.com/mehdiben1/VeraCare-Health-Marketing-Performance/blob/main/Scope%20of%20work%20%26%20Issues%20log/Data%20Cleaning%20Process%20-%20VeraCare%20Health%20Data%20set.pdf)
+
+  
+- Check out the full Power Bi report [here](https://github.com/mehdiben1/VeraCare-Health-Marketing-Performance/blob/main/Power%20Bi%20Dashboard/VeraCare%20Health.pbix)
