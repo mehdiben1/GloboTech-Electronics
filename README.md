@@ -43,7 +43,7 @@ The companies main database structure as seen below consists of 5 tables: **Sale
   
 These results suggest the company is well-positioned to maintain growth by optimizing store performance, leveraging repeat customers, and sustaining its high profitability.
 
-<img width="1011" height="567" alt="image" src="https://github.com/user-attachments/assets/5b34a623-2ba9-4be9-a250-63a57432f6bc" />
+<img width="903" height="511" alt="image" src="https://github.com/user-attachments/assets/fa74e478-4f5f-4d2b-b2d2-ededa707af3b" />
 
 
 
