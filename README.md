@@ -50,18 +50,27 @@ These results suggest the company is well-positioned to maintain growth by optim
 # Insights Deep Dive:
 ## 1. Customer Insights:
 ### a. Customer age segments:
+
 - Young Adults and Seniors are the top revenue-generating segments, together contributing over **$27.6M**, roughly **44%** of total company revenue.
 - Average Order Value (AOV) is relatively consistent across age groups, ranging between **$2,068** and **$2,172**, indicating similar spending patterns per transaction regardless of age.
+
+  <img width="655" height="250" alt="image" src="https://github.com/user-attachments/assets/e7e2d10f-fb42-49c5-be3f-d1ac1866ccd8" />
+
   
 ### b. Customer purchase behavior:
 - The Top 10 customers generated **$425K** in revenue, representing approximately **1.4%** of total revenue, suggesting a relatively broad revenue base rather than over-reliance on a few clients.
 - **Matthew Flemming** is the single largest customer, contributing **$61.8K** in revenue and **$39.6K** in profit, highlighting strong profitability in high-value clients.
 - Purchase frequency distribution shows that the majority of customers (**77.5%**) purchase **1–3 items** per order, with a steep drop-off beyond that, suggesting opportunities to increase basket size via cross-selling or promotions.
-  
+
+  <img width="895" height="401" alt="image" src="https://github.com/user-attachments/assets/ab4d2f63-14a5-46b2-a5f1-0395be24fc56" />
+
 ## 2. Product & Brand Profitability: 
 - The top three brands, Adventure Works, Wild World Importers, and Contoso—generate over half of GloboTech’s total profit (**56.3M**). This emphasizes the importance of prioritizing investment in these high-performing brands while reevaluating the role of lower-performing ones.
 - Among the product lineup, the **WWI Desktop PC 2.33 X23** stands out as the top contributor, with a profit of **$0.34M**. It appears multiple times with slight variations, indicating strong recurring sales. Adventure Works desktops dominate the top ten products, showcasing consistent profitability across similar SKUs and reinforcing the brand’s position as a key profit driver.
 - Computers generate **$11.3 million** in profit, nearly double that of the next highest category. This confirms that computers are the core revenue generator. Home appliances and cameras follow, but with a significant drop-off, suggesting they should be considered as secondary focus areas.
+
+<img width="867" height="550" alt="image" src="https://github.com/user-attachments/assets/b457e160-361d-49c6-bd69-0ebe3252ded5" />
+
   
 # Recommendations:
 
